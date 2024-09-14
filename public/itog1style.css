@@ -1,0 +1,87 @@
+@charset "utf-8";
+
+footer{
+
+	background-color:#CCCCCC;
+	padding: 0px 0px 0px 0px;
+	clear:both;
+}
+
+.item1{
+	background-color: #00a85a;
+
+}
+
+.item2{
+    background-color: #0750c1;
+}
+
+.item3{
+    background-color: #0750c1;
+	
+}
+
+.item4{
+	background-color: #0750c1;
+
+}
+
+.item5{
+	background-color: #00a85a;
+
+}
+
+.all{
+		text-align: center;
+		font-size: 16px;
+}
+
+.pad{
+	padding-bottom: 10px;
+	padding-top: 10px;
+}
+
+.black{
+	color: black;
+}
+.marg{
+	margin-top: 10px;
+}
+
+.crop{
+    object-fit: cover;
+    height: 300px;
+}
+
+.cen{
+	text-align: center;
+}
+
+#white {
+color: #ffffff; /* Цвет текста*/
+}
+
+
+#razm {
+font-size: 20pt; /* Размер шрифта в пунктах */
+}
+
+
+
+.string{
+	width:600px;
+	height:30px;
+	margin:60px auto;
+	line-height:28px;
+	padding: 0 10px;
+	border-radius:4px;
+	box-shadow:0 1px 2px #777;
+	-moz-border-radius:4px;
+	-webkit-border-radius:4px;
+	background-color: #fbc32e;
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#eeeeee', endColorstr='#cccccc',GradientType=0 );
+}
+
+#cl {
+color: #0750c1; /* Цвет текста*/
+}

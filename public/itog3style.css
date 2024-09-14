@@ -1,0 +1,74 @@
+@charset "utf-8";
+
+footer{
+
+	background-color:#CCCCCC;
+	padding: 0px 0px 0px 0px;
+	clear:both;
+}
+
+.item1{
+	background-color: #00a85a;
+
+}
+
+.item2{
+    background-color: #0750c1;
+}
+
+.item3{
+    background-color: #0750c1;
+	
+}
+
+.item4{
+	background-color: #0750c1;
+
+}
+
+.item5{
+	background-color: #00a85a;
+
+}
+
+.all{
+		text-align: center;
+		font-size: 16px;
+}
+
+.pad{
+	padding-bottom: 10px;
+	padding-top: 10px;
+}
+
+.black{
+	color: black;
+}
+.marg{
+	margin-top: 10px;
+}
+
+.crop{
+    object-fit: cover;
+    height: 300px;
+}
+
+.cen{
+	text-align: center;
+}
+
+.center{
+	text-align: center; /* Текст в центре */
+}
+
+#white {
+color: #ffffff; /* Цвет текста*/
+}
+
+#cl {
+color: #0750c1; /* Цвет текста*/
+}
+
+#whitee {
+color: #fcfefb; /* Цвет текста*/
+}
